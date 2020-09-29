@@ -1,9 +1,11 @@
 main:
-  - title: "PQUIC"
-    url: https://pquic.org
   - title: "xBGP"
     url: /xbgp/
   - title: "TCPLS"
     url: /tcpls/
+  - title: "TCP"
+    url: /tcpls/
+  - title: "PQUIC"
+    url: https://pquic.org
   - title: "About"
     url: /about/
