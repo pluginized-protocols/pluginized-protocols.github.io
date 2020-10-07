@@ -23,7 +23,7 @@ interacts with other protocols through four main interfaces:
  configuration parameters (e.g. systcl on Linux)
 
 
-![TCP stack]({{ site.baseurl }}/_images/tcp-stack.png)
+![TCP stack]({{ site.baseurl }}/images/tcp-stack.png)
 
 TCP has evolved a lot since the publication of
 [RFC793](https://tools.ietf.org/html/rfc793). The latest TCP roadmap
