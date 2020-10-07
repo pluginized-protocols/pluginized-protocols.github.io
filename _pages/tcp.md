@@ -34,7 +34,7 @@ effort. Measurement studies demonstrate that several TCP
 implementations took many years to support new extensions.
 In
 [An Analysis of Longitudinal TCP Passive Measurements](https://link.springer.com/chapter/10.1007/978-3-642-20305-3_3
-) shows that it took more than a decade to fully deploy of
+) Fukuda shows that it took more than a decade to fully deploy of
 Selective Acknowledgments, defined in
 [RFC2018](https://tools.ietf.org/html/rfc2018) and Window Scale
 defined in [RFC1323](https://tools.ietf.org/html/rfc1323). The
