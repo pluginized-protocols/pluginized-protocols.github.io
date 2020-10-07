@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website gathers the efforts of researchers from
+[UCLouvain](https://www.uclouvain.be)'s
+[IP Networking Lab](https://inl.info.ucl.ac.be) who work on making
+current and future Internet protocols `programmable`. The team members
+include :
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+ -
+ [Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure)
+ - [Quentin De Coninck](https://qdeconinck.github.io)
+ - [Florentin Rochet](https://frochet.github.io)
+ - [Emery Assogba](https://inl.info.ucl.ac.be/emery.html)
+ - [Mathieu Jadin](https://inl.info.ucl.ac.be/mjadin.html)
+ - [François Michel](https://inl.info.ucl.ac.be/fmichel.html)
+ - [Maxime Piraux](https://inl.info.ucl.ac.be/mpiraux.html)
+ - [Thomas Wirtgen](https://inl.info.ucl.ac.be/thomas.html)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to contact any of us if you'd like to participate to this
+effort. 
