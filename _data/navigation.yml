@@ -4,7 +4,7 @@ main:
   - title: "TCPLS"
     url: /tcpls/
   - title: "TCP"
-    url: /tcpls/
+    url: /tcp/
   - title: "PQUIC"
     url: https://pquic.org
   - title: "About"
