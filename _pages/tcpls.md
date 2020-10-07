@@ -16,7 +16,7 @@ assumptions on the service provided by the underlying TCP
 implementation. This layering separation allows one TLS implementation
 to be easily adapted to various TCP implementations
 
-![TCP over TLS]({{ site.baseurl }}/images/tcp-tls.png)
+![TCP over TLS]({{ site.baseurl }}/images/tls-tcp.png)
 
 
 TCPLS takes a different approach. Since both TCP and TLS are often
