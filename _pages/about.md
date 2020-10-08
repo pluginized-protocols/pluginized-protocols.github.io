@@ -10,8 +10,7 @@ This website gathers the efforts of researchers from
 current and future Internet protocols `programmable`. The team members
 include :
 
- -
- [Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure)
+ - [Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure)
  - [Quentin De Coninck](https://qdeconinck.github.io)
  - [Florentin Rochet](https://frochet.github.io)
  - [Emery Assogba](https://inl.info.ucl.ac.be/emery.html)
