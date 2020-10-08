@@ -21,4 +21,4 @@ include :
  - [Thomas Wirtgen](https://inl.info.ucl.ac.be/thomas.html)
 
 Feel free to contact any of us if you'd like to participate to this
-effort. 
+long-term effort. 

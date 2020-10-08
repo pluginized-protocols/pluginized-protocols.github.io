@@ -1,9 +1,32 @@
-Quentin De Coninck:
+quentin:
   name: "Quentin De Coninck"
-  bio: "Just another post-doc"
-  avatar: "/assets/images/beautiful-pic.jpg"
-
-François Michel:
+  web: https://qdeconinck.github.io
+  
+olivier:
+  name: "Olivier Bonaventure"
+  web: https://perso.uclouvain.be/olivier.bonaventure
+  
+florentin:
+  name: "Florentin Rochet"
+  web: https://frochet.github.io
+  
+francois:
   name: "François Michel"
-  bio: "A Ph.D. student coding"
-  avatar: "/assets/images/other-pic.jpg"
+  web: https://inl.info.ucl.ac.be/fmichel.html
+
+maxime:
+  name: "Maxime Piraux"
+  web: https://inl.info.ucl.ac.be/mpiraux.html
+
+thomas:
+  name: "Thomas Wirtgen"
+  web: https://inl.info.ucl.ac.be/thomas.html
+
+mathieu:
+  name: "Mathieu Jadin"
+  web: https://inl.info.ucl.ac.be/mjadin.html
+
+emery:
+  name: "Emery Assogba"
+  web: https://inl.info.ucl.ac.be/emery.html
+
