@@ -7,7 +7,7 @@ permalink: /about/
 This website gathers the efforts of researchers from
 [UCLouvain](https://www.uclouvain.be)'s
 [IP Networking Lab](https://inl.info.ucl.ac.be) who work on making
-current and future Internet protocols `programmable`. The team members
+current and future Internet protocols **programmable**. The team members
 include :
 
  - [Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure)
