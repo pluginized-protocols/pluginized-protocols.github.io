@@ -1,12 +1,12 @@
 ---
 title:  "A first xBGP plugin"
-date:   2020-11-05
+date:   2020-11-29
 categories: xbgp
 author: thomas
 ---
 
 
-An xBGP compliant implementation such as our forks of [BIRD](https://github.com/pluginized-protocols/xbgp_bird] and [FRRouting](https://github.com/pluginized-protocols/xbgp_frr) supports a simple API that enables network operators and researchers to extend it. The xBGP API is defined and briefly documented in [xbgp_plugin_api.h](https://github.com/pluginized-protocols/xbgp_plugins/blob/master/xbgp_compliant_api/xbgp_plugin_api.h). In this post, we start with a very simple xBGP extension that we implement using a plugin.
+An xBGP compliant implementation such as our forks of [BIRD](https://github.com/pluginized-protocols/xbgp_bird) and [FRRouting](https://github.com/pluginized-protocols/xbgp_frr) supports a simple API that enables network operators and researchers to extend it. The xBGP API is defined and briefly documented in [xbgp_plugin_api.h](https://github.com/pluginized-protocols/xbgp_plugins/blob/master/xbgp_compliant_api/xbgp_plugin_api.h). In this post, we start with a very simple xBGP extension that we implement using a plugin.
 
 The BGP specifications define the format of the BGP messages. The UPDATE message is the most complex BGP message since it contains the information about the new routes. BGP supports different BGP Path Attributes that are defined in various RFCs. Each of these path attributes is identified using a one byte integer. IANA maintains a [list with all the known path attributes](https://www.iana.org/assignments/bgp-parameters/bgp-parameters.xhtml#bgp-parameters-2).
 
